@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://sliuxf.github.io/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sliuxf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face Mask Detection, Deep Learning</title>
+      <link>https://sliuxf.github.io/projects/mask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/mask/</guid>
+      <description>Mask On - Face Mask Detection Github</description>
+    </item>
+    
+    <item>
+      <title>Master Admission Prediction, Model Pipeline</title>
+      <link>https://sliuxf.github.io/projects/master/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/master/</guid>
+      <description>Going for master? Admission chance prediction! Github</description>
+    </item>
+    
+    <item>
+      <title>MovieTune Recommender, MEAN Web App</title>
+      <link>https://sliuxf.github.io/projects/movie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/movie/</guid>
+      <description>MovieTunes: Get music recommendation by a movie Github</description>
+    </item>
+    
+    <item>
+      <title>Speed Dating Matching, Predictive Analysis</title>
+      <link>https://sliuxf.github.io/projects/dating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/dating/</guid>
+      <description>Predicting &amp;ldquo;Match&amp;rdquo; in a Speed Dating Experiment Github</description>
+    </item>
+    
+    <item>
+      <title>Twitter 2018 NBA Sentiment Analysis</title>
+      <link>https://sliuxf.github.io/projects/twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/twitter/</guid>
+      <description>Spatial Sentiment Analysis of NBA Playoffs 2018 Based on Twitter Github</description>
+    </item>
+    
+    <item>
+      <title>Spotify Visualization</title>
+      <link>https://sliuxf.github.io/projects/spotify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sliuxf.github.io/projects/spotify/</guid>
+      <description>Spotify Data Visualization in D3.js Github</description>
+    </item>
+    
+  </channel>
+</rss>
